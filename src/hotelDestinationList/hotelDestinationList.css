@@ -1,0 +1,28 @@
+.hotel-list {
+  width: 100%;
+  margin: '10px';
+  text-align: center;
+}
+
+.hotel-list-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 240px;
+  margin: 8px 12px;
+}
+
+.spin {
+  margin: 20px 0;
+  margin-bottom: 20px;
+  padding: 30px 50px;
+  text-align: center;
+}
+
+.width-220 {
+  width: 220px;
+}

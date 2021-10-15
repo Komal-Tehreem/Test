@@ -1,0 +1,16 @@
+.h1 {
+  color: #40a9ff;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.p {
+  padding: 0.5% 10%;
+  text-align: center;
+}
+
+.column-details {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: inherit;
+}
